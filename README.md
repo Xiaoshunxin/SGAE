@@ -1,2 +1,2 @@
 # SGAE
-The implementation of our work submiited to TBD
+The implementation of our work submitted to TBD
